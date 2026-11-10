@@ -1,0 +1,19 @@
+classpath:C:\Projetos grandes JAVA\JPA com Hibernate\demo\target\classes	2:7d1e31ccd57f40dcc662dd1516f19132ff4871f48f869af3630474d9d03dda5e
+classpath:C:\Users\guihe\.m2\repository\org\hibernate\orm\hibernate-core\7.2.25.Final\hibernate-core-7.2.25.Final.jar	14462926:1793310055281
+classpath:C:\Users\guihe\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.2.0\jakarta.persistence-api-3.2.0.jar	195939:1793310055387
+classpath:C:\Users\guihe\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar	28607:1793310055634
+classpath:C:\Users\guihe\.m2\repository\org\jboss\logging\jboss-logging\3.6.1.Final\jboss-logging-3.6.1.Final.jar	61853:1793310055381
+classpath:C:\Users\guihe\.m2\repository\org\hibernate\models\hibernate-models\1.0.1\hibernate-models-1.0.1.jar	217761:1793310055393
+classpath:C:\Users\guihe\.m2\repository\com\fasterxml\classmate\1.7.1\classmate-1.7.1.jar	68227:1793310055375
+classpath:C:\Users\guihe\.m2\repository\net\bytebuddy\byte-buddy\1.17.8\byte-buddy-1.17.8.jar	9018553:1793310055959
+classpath:C:\Users\guihe\.m2\repository\jakarta\xml\bind\jakarta.xml.bind-api\4.0.4\jakarta.xml.bind-api-4.0.4.jar	131188:1793310055462
+classpath:C:\Users\guihe\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.4\jakarta.activation-api-2.1.4.jar	67380:1793310055481
+classpath:C:\Users\guihe\.m2\repository\org\glassfish\jaxb\jaxb-runtime\4.0.6\jaxb-runtime-4.0.6.jar	920148:1793310055615
+classpath:C:\Users\guihe\.m2\repository\org\glassfish\jaxb\jaxb-core\4.0.6\jaxb-core-4.0.6.jar	137909:1793310055577
+classpath:C:\Users\guihe\.m2\repository\org\eclipse\angus\angus-activation\2.0.3\angus-activation-2.0.3.jar	26729:1793310055814
+classpath:C:\Users\guihe\.m2\repository\org\glassfish\jaxb\txw2\4.0.6\txw2-4.0.6.jar	73265:1793310055676
+classpath:C:\Users\guihe\.m2\repository\com\sun\istack\istack-commons-runtime\4.1.2\istack-commons-runtime-4.1.2.jar	25788:1793310055994
+classpath:C:\Users\guihe\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar	10681:1793310055841
+classpath:C:\Users\guihe\.m2\repository\org\antlr\antlr4-runtime\4.13.2\antlr4-runtime-4.13.2.jar	326307:1793310055783
+classpath:C:\Users\guihe\.m2\repository\com\mysql\mysql-connector-j\9.7.0\mysql-connector-j-9.7.0.jar	2607237:1791316068621
+classpath:C:\Users\guihe\.m2\repository\com\google\protobuf\protobuf-java\4.31.1\protobuf-java-4.31.1.jar	1873183:1791316068810
