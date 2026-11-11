@@ -6,6 +6,8 @@
 
     <persistence-unit name="plataforma-jogos">
         <class>com.example.model.Usuario</class>
+        <class>com.example.model.Jogo</class>
+        <class>com.example.model.Biblioteca</class>
         <properties>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/plataformajogos"/>
             <property name="jakarta.persistence.jdbc.user" value="java"/>
